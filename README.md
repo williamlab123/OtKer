@@ -1,2 +1,3 @@
 # OtKer
 Personal Assistence bot
+Otker is a personal assistence bot, but not like Google Cortana, OtKer does not use AI. You want to open your netflix and watch some movie, press a button in your keyboard(you chosse the path) and open Otker with 1 click, then press a key that you choosed to be te Netflix path and it is it, you open your Netflix with 2 buttons. It can be used to any stuff like that, in the fisrt time using OtKer you will tell the name of the paths, the paths, ex:"D:\OTKER" and the hotkey. After that, OtKer will save your path in a notepad. You can add endless paths, besides that OtKer have some funcionalities that may help you in your day by day. The complete code is free to be downloaded and changed, whatever you want.
